@@ -17,7 +17,7 @@ const getData = asyncHandler(async (req, res, next) => {
 
         const response = new ApiResponse(200, {
             is_success: true,
-            user_id: "22BCS13706",  // Replace with dynamic user data
+            user_id: "Pranjal_Kumar_Ranjan_15_jan_2004",  // Replace with dynamic user data
             email: "22BCS13706@cuchd.in",        // Replace with dynamic user email
             roll_number: "22BCS13706",       // Replace with dynamic roll number
             numbers,
